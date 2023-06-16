@@ -9,7 +9,7 @@ Algoritmanın çalışabilmesi için Python dilinin çalışabileceği program(l
 
 # Varyasyon
 Aynı algoritmayı Flow Chart uygulaması ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-flowchart
-Aynı algoritmayı C dili ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-c-dili
+Aynı algoritmayı C dili ile yaptım. İncelemek istersen bağlantıya tıklayabilirsin. https://github.com/BaranKanatcomtr/tekmi-ciftmi-ogrenme-c-dili                     
 
 # İletişim
 Benimle iletişme geçmek isterseniz www.barankanat.com.tr adresini ziyaret edebilirsiniz.                        
